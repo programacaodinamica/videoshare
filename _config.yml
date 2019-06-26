@@ -1,2 +1,2 @@
 baseurl: /videoshare
-permalink: /videoshare/:title
+permalink: /:title
