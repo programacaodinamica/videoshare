@@ -1,7 +1,5 @@
 ---
 layout: video
-title: DIFERENÇA entre VAL e VAR | Kotlin Essencial #1
+title: ESTILOS no projeto de aplicativo Android | Resources #3
 video_id: G0LcVuciyoo
 ---
-
-Redirecionando....
